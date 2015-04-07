@@ -2,6 +2,12 @@
 
 Usable, but not useful yet.
 
+## Wil be added
+ * Clustering
+ * Autoregression, ARIMA
+ * Criteries and coefficients
+ 
+ 
 
 ## Example
 ```
